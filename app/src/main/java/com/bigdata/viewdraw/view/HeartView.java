@@ -79,7 +79,7 @@ public class HeartView extends View {
 
         mPaint.setTextSize(100);
         mPaint.setColor(Color.WHITE);
-        canvas.drawText("小呆萌", width / 2-150, height / 3+100, mPaint);
+        canvas.drawText("小坤", width / 2 - 100, height / 3 + 100, mPaint);
 
     }
 }
